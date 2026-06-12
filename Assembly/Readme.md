@@ -1,3 +1,7 @@
+## Folder Organization
+
+### Projects Folder Example
+```
 Projects/
 ├── Galaga/
 │   ├── CAD/
@@ -10,3 +14,4 @@ Projects/
 │       └── Assembly_Guide.md
 ├── Pacman/
 └── [ArcadeTitle]/
+```
