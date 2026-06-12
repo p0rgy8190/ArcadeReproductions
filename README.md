@@ -15,7 +15,7 @@ This repository contains CNC metal files and specifications for reproducing arca
 
 ## 🎯 Purpose
 
-This project aims to provide accurate metal file reproductions for classic arcade cabinet restoration and construction. These files can be used with CNC machines, water jets, laser cutters, or sent to metal fabrication services.
+This project aims to provide accurate 3d Printed, CNC Files and Metal file reproductions for classic arcade cabinet restoration and construction. These files can be used with CNC machines, water jets, laser cutters, or sent to metal fabrication services, 3d printers, etc...
 
 ## 📋 File Types Included
 
@@ -50,3 +50,4 @@ These files are provided for educational and restoration purposes. Users are res
 ## 📧 Contact
 
 For questions or suggestions, please open an issue in this repository.
+You can also reach out to me at Support@LABArcades.com
