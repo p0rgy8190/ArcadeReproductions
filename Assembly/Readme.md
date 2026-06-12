@@ -2,16 +2,13 @@
 
 ### Projects Folder Example
 ```
-Projects/
+
 ├── Galaga/
-│   ├── CAD/
-│   │   ├── SidePanel.dxf
-│   │   ├── SidePanel.pdf
-│   │   └── SidePanel_3D.step
-│   ├── Specs/
-│   │   └── SidePanel_Specifications.md
-│   └── Assembly/
-│       └── Assembly_Guide.md
-├── Pacman/
-└── [ArcadeTitle]/
-```
+│   ├── Cabinet Photos/
+│   │   ├── Photo1.png
+│   │   ├── Photo2.png
+│   │   └── Photo3.png
+│   ├── Cabinet Assembly/
+│   │   └── Photo1.png
+│   │   └── Assembly_Guide.md
+
