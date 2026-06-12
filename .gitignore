@@ -1,0 +1,36 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.bak
+*.backup
+
+# OS-specific
+.directory
+.Spotlight-V100
+.Trashes
+
+# Large files (adjust as needed)
+*.zip
+*.rar
+*.7z
+
+# Backup files from CAD software
+*.dwl
+*.dwl2
+*.bak
+
+# Office files
+.~lock.*
